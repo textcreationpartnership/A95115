@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the reception of their royal highnesses at their arrival in Scotland With the councils letter directed to the King upon that occasion Printed by command of his Majesties Privy Council.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95115</idno>
+            <idno type="STC">Wing T2838</idno>
+            <idno type="STC">ESTC R229711</idno>
+            <idno type="EEBO-CITATION">99899248</idno>
+            <idno type="PROQUEST">99899248</idno>
+            <idno type="VID">152755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152755)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the reception of their royal highnesses at their arrival in Scotland With the councils letter directed to the King upon that occasion Printed by command of his Majesties Privy Council.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>Reprinted anno Dom 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152755:1"/>
+            <pb facs="tcp:152755:1"/>
+            <p>A True NARRATIVE Of The RECEPTION OF THEIR Royal Highneſſes At their Arrival in SCOTLAND. With the Councils Letter directed to the KING Upon that occaſion</p>
+            <p>
+               <hi>Printed by Command of His Majeſties Privy Council.</hi>
+            </p>
+            <p>Reprinted <hi>Anno Dom</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:152755:2"/>
+            <head>A true NARRATI<g ref="char:V">Ʋ</g>E of the <hi>RECEPTION</hi> of their <hi>ROYAL HIGHNESSES</hi> at their Arrival in SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">M</seg>
+               <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>NDAY the 15th. of <hi>October,</hi> Their Royal Highneſſes Arriving with the Evenings Tide, in <hi>Kircaldy</hi> Road, about Ten of the Clock at night, The Duke of <hi>Rothes</hi> ſent His Nephew Mr. <hi>Francis Montgomerie,</hi> to Complement the Duke and Dutcheſs: And the next morning His Grace ſent the Lord Juſtice Clerk for that ſame end, and to receive His Highneſſes commands concerning his Landing. That ſame day about Eleven a Clock in the forenoon, Their Royal Highneſſes Arrived at <hi>Kirkcaldy</hi> Road; where <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ving Landed, They were met by his Grace the Duke of <hi>Rothes,</hi> Lord High Chancellor, with many of the Privy Coun<g ref="char:EOLhyphen"/>cil, &amp; moſt of the Nobility and Gentry of the Shires next adjacent, who kiſs'd their Royal Highneſſes hands, at their Landing upon the Shoar, which was crouded with a multitude of People, to Congratulate their Royal Highneſſes ſafe Arrival to this His Majeſties ancient Kingdom. From <hi>Kirkcaldy,</hi> their Roy<g ref="char:EOLhyphen"/>al Highneſſes ſet forward to the Lord Chancellor's Houſe of <hi>Leſly;</hi> whither they were attended with a noble Train of Coaches, and many of the Nobility and Gentry, on Horſe-back; and Guarded by His Majeſties Troop of Guards, At <hi>Leſly</hi> th<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Royal Highneſſes were Magnificiently Intertained, till <hi>Friday</hi> the 20th. W<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (having <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ted thence) they were attended to <hi>Bruntiſland</hi> Their Royal Highneſſes <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ain ſtill growing more numerous: At <hi>Bruntiſland</hi> They were Received with Shooting of great Guns ringing of Bells, Acclamations of the People, and all other Expreſſions of Joy imaginable; which continued till their Royal Highneſſes were aboard the <hi>Churlot Yaught,</hi> attended by His Grace the Lord Chancellor, and many of the beſt of the Nobility: The other <hi>Yaughts,</hi> with ſeveral other Boats, and all the Boats about <hi>Bruntiſland,</hi> were filled with the Nobility and Gentry of the Train.</p>
+            <p>In their paſſage to <hi>Leith,</hi> they were ſaluted by the Great Guns from His Ma<g ref="char:EOLhyphen"/>jeſties Caſtle of <hi>Edinburgh,</hi> with the Guns from the Baſtions at <hi>Leith,</hi> from the men of Warr, and other Ships, both in the Road and Harbour of <hi>Leith.</hi>
+            </p>
+            <p>The Shoar was ſo throng with Perſons of all Ranks, that the noiſe of the Can<g ref="char:EOLhyphen"/>non, Trumpets, Kettle-Drums and Drums wee almoſt drowned with the loud &amp; reiterared Acclamations of the people, for the ſafe arrival of their Royal High<g ref="char:EOLhyphen"/>neſſes, which was about five in the Afternoon.</p>
+            <p>At their Landing at <hi>Leith,</hi> their Royal Highneſſes were met by the Lords of His Majeſties Privy Council, Uſhered by their Macers; where ſeveral Ladies were attended to wait on Her Royal Highneſs: Here their Royal Highneſſes, were received by the Earl of <hi>Linlithgow,</hi> Collonel of His Majeſties Regiment of Guards, upon the head of ſeveral Companies of the Regiment, and were attended by the Sheriffs, and moſt of the Gentlemen of the three <hi>Lothians</hi> and next adjacent Shires; which made a Lane on both ſides of the ſtreet, through the whole Town of
+<pb n="3" facs="tcp:152755:2"/>
+               <hi>Leith</hi>: After the Kings Troop of Guards, Marched the Nobility and Gentry that were on horſe-back, and after them a great train of Coaches, filled with the Council and Nobility; their Royal Highneſſes having made choice of the Lord Juſtie Clerk his Coach.</p>
+            <p>From <hi>Leith,</hi> to the Water-Gate, at the Abby of <hi>Halyrudehouſe,</hi> their Royal Highneſſes were Guarded by the Train-Bands and Militia Regiment of this City, conſiſting of 44. Companies, who made a Lane for their Royal Highneſſes and their train to paſs betwixt <hi>Leith</hi> and <hi>Edinburgh:</hi> All the while they were upon the way, the great Guns from the Caſtle, and other places, prepared on purpoſe, ſaluted them; the whole body of the people univerſaly, ſhouting with great Joy and cheerfulneſs, <hi>Lord preſerve His Majeſtie, and their Royal Highneſſes the Duke and Dutcheſs of</hi> Albany: Being come to the Water-Gate, near the palace Royal, They were met by the Lord Provoſt, Magiſtrates, and Town Council of <hi>Edinburgh,</hi> in their beſt formalities; where the Lord Provoſt kneeling, and having Kiſt His Royal Highneſs hand, delivered to Him the Silver Keys of the City, and hear<g ref="char:EOLhyphen"/>tily welcomed Him, in Name of the whole Citizens, to His <hi>Majeſties</hi> good Town of <hi>Edinburgh.</hi>
+            </p>
+            <p>From this to the Palace, their Royal Highneſſes were guarded by two or three hundred of the beſt Citizens with Gilded Partizans, and in the outer Court were received by ſeveral other Companies of His <hi>Majeſties</hi> guards: In the Guard-Hall they were received by their Graces, the Lords Arch-Biſhops of <hi>St. Andrews</hi> and <hi>Glaſgow,</hi> and ſeveral others of the Lords of the Clergy, where His Grace, the Lord Primate Complemented their Royal Highneſſes in name of the Orthodox Clergy. Where the Lieutenant Governour of the Caſtle of <hi>Edinburgh,</hi> delivered to His Royal Highneſs the Keys of the Caſtle.</p>
+            <p>All the Bells of this City continued Ringing moſt of the night, &amp; all the ſtreets of the City were filled with great Bonefires, whither many of the Citizens repaired to Drink their <hi>Majeſties</hi> and Royal Highneſſes health Nor was any thing to be ſeen but an univerſal Joy in the Countenance of all here.</p>
+            <p>
+               <hi>Saturday</hi> the 3. of <hi>Octob.</hi> the Lord Biſhop of <hi>Edinburgh</hi> with all the Clergy in and about this City, in their Canonical Habits, Kiſt His Royal Highneſs hand, where the Biſhop of <hi>Edinburgh</hi> expreſt the general ſatisfaction of the Ortho<g ref="char:EOLhyphen"/>dox Clergy, for His Royal Highneſs ſafe arrival; and aſſured His Highneſs of their Fervent prayers for His Sacred <hi>Majeſtie,</hi> and the Royal Line. <hi>Tueſday</hi> the <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. of <hi>Nov.</hi> being the firſt day of Seſſions, the Senators of the Colledge of Juſtice, with all the other Members thereof in a great Body, in their Gowns, Uſhered by their Macers, went to the Palace, where having Kiſt His Royal Highneſs hand, The Lord Preſident of the Seſſion, in Name of the Lawyers of this King<g ref="char:EOLhyphen"/>dom, complemented His <hi>Royal Highneſs</hi> upon His Arrival; As did the Lord Juſtice Clark, in Name of the Lords Commiſſioners of His <hi>Majeſties</hi> Juſticiary, who in their Scarlet Gowns, attended by the Members of their Court, and Uſhered by the Macers, waited likewiſe upon His <hi>Royal Highneſs,</hi> and Kiſt His hand. Nor indeed was there any thing wanting to Expreſs the General Joy of all here, for the happy Arrival of ſo Excellent a Prince and ſo Dear to this Kingdom.</p>
+            <div type="letter">
+               <pb facs="tcp:152755:3"/>
+               <head>The Letter directed from the Council to the KING.</head>
+               <opener>
+                  <salute>May it pleaſe your Sacred Majeſtie</salute>
+               </opener>
+               <p>VVE have good reaſon to believe, that your Majeſties juſt commands ſhall never be obſtructed by the unwillingneſs, nor returned by the negligence of the Subjects of This your Majeſties Ancient Kingdom, being fully convinced, that nothing is re<g ref="char:EOLhyphen"/>quired of <g ref="char:V">Ʋ</g>s, ſave that we may preſerve our ſelves, by ſuitable and eaſie means, a<g ref="char:EOLhyphen"/>gainſt thoſe formidable and imminent dangers, which threaten us now from the ſame principles, by which we were formerly Ruined: ſo that the only thing which is for<g ref="char:EOLhyphen"/>ced upon the worſt of your Subjects, is, that they muſt unavoidably confeſs, that no<g ref="char:EOLhyphen"/>thing can leſſen their happineſs, except their being unſenſible of it, and an thankful for it. And your Majeſty, by diſpenſing for our protection, all the Revenue which is raiſed in this your Majeſties ancient Kingdom, lets <g ref="char:V">Ʋ</g>s ſee, that all you crave of us, is, that We would be true to our own intereſt, and all that you get by us, is the care of go<g ref="char:EOLhyphen"/>verning us to our own ſatisfaction. That proſound reſpect, and ſincere Kindneſs, Sir, which we obſerve in your Majeſties Subjects here, to your Royal Brother, the Duke of <hi>Albany</hi> and <hi>York,</hi> aſſure us, that we want nothing but occaſion to hazard for the Royal Family, theſe lives and fortunes which you have made ſo ſweet and ſe<g ref="char:EOLhyphen"/>c<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re to us, and as our eſteem for his Royal Highneſs at his laſt being here, grew daily with his ſtay, ſo our expectations of Security and ſatisfaction, return naturally with him. And therefore we are oblieged with all zeal and ſincerity to return your Sacred Majeſty, our moſt humble and hearty thanks for ſecuring the juſt and natural deſcent of that Royal Family, which is the Chief Glory and only Security of this King<g ref="char:EOLhyphen"/>dom, upon which the leaſt invaſion, would be ſo great an invitation to all inſolence and arbitrarineſs in your Subjects, as could not but procure us a Civil War in every Age; for m<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of Parts and Intereſts being diſcon<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ted or factious, would by promo<g ref="char:EOLhyphen"/>ting colourable Titles, and pretences, make the body of your people, the price of their avarice, and the prey of their ambition; and ren<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not only theſe Kingdoms from one another, but amongſt themſelves: nor can We ſce<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y every man may not pre<g ref="char:EOLhyphen"/>tend to be King, when the lawfull Succeſſors are debarred, nor how we can be fixed in any thing, when we looſe: this great Fundamental. And in the next place, we do likewiſe return your Majeſtie moſt humble and hearty thanks for ſending your Royal Brother to be an example to, as well as a witneſs of our Loyalty, and affording us in him, the renued occaſion of letting the world ſee that no humor nor jealouſies, ſhall for the future divert that Dutifulneſs, to the Royal Line, which our Predeceſſors have maintained for ſo many Ages. Nor doubt we very ſhortly to let your Majeſty find, what happy effects his ſtay here will produce for promoting your ſervice, and cementing our differences, in all which his Royal Highneſs ſhall be moſt obſequiouſly aſſiſted, By</p>
+               <closer>
+                  <dateline>
+                     <hi>Edinburgh,</hi> 
+                     <date>Nov. 2. 1680.</date>
+                  </dateline>
+                  <salute>
+                     <hi>May it pleaſe your ſacred</hi> Majeſty,</salute>
+                  <signed>your Majeſties moſt Faithful, moſt Humble and moſt Obedient Subjects and Servants, ROTHES <hi>Chancell.</hi> ALEXANDER St. <hi>And.</hi> ATHOL. DOWGLAS. MONTROSE. GLENCAIRN. WINTON. LINLTTHGOW. PERTH. STRATHMORE. ROXB<g ref="char:V">Ʋ</g>RGH. BALCARES. CATTHNES. LORN. JO. <hi>Edinburgen.</hi> ROSS. JA. DALRIMPLE. CH. MAHLAND. THOMAS M<g ref="char:V">Ʋ</g>RRAT. GEO. MACKENZIE. RICH. MAITLAND. TH. DALTEA. JA. FO<g ref="char:V">Ʋ</g>LES. A. RAMSAT. JO. WA<g ref="char:V">Ʋ</g>CHOP. GEO. GORDON. J. DR<g ref="char:V">Ʋ</g>MMOND.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
